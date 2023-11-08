@@ -1,0 +1,6 @@
+C:\code\c_sharp\BankomatSimulator\BankSimulatorLib\obj\Debug\BankSimulatorLib.csproj.AssemblyReference.cache
+C:\code\c_sharp\BankomatSimulator\BankSimulatorLib\obj\Debug\BankSimulatorLib.csproj.CoreCompileInputs.cache
+C:\code\c_sharp\BankomatSimulator\BankSimulatorLib\bin\Debug\BankSimulatorLib.dll
+C:\code\c_sharp\BankomatSimulator\BankSimulatorLib\bin\Debug\BankSimulatorLib.pdb
+C:\code\c_sharp\BankomatSimulator\BankSimulatorLib\obj\Debug\BankSimulatorLib.dll
+C:\code\c_sharp\BankomatSimulator\BankSimulatorLib\obj\Debug\BankSimulatorLib.pdb

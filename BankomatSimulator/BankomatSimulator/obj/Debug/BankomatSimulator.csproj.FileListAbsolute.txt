@@ -1,0 +1,11 @@
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\obj\Debug\BankomatSimulator.csproj.AssemblyReference.cache
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\obj\Debug\BankomatSimulator.csproj.SuggestedBindingRedirects.cache
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\obj\Debug\BankomatSimulator.csproj.CoreCompileInputs.cache
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\bin\Debug\BankomatSimulator.exe.config
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\bin\Debug\BankomatSimulator.exe
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\bin\Debug\BankomatSimulator.pdb
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\bin\Debug\BankSimulatorLib.dll
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\bin\Debug\BankSimulatorLib.pdb
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\obj\Debug\BankomatSimulator.csproj.CopyComplete
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\obj\Debug\BankomatSimulator.exe
+C:\code\c_sharp\BankomatSimulator\BankomatSimulator\obj\Debug\BankomatSimulator.pdb
